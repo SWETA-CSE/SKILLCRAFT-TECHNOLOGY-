@@ -17,6 +17,10 @@ Before sharing anything online, ask yourself three critical questions:
 ✅ **Is it KIND?** - Your words can build up or break down.  
 ✅ **Is it SAFE?** - Think about your privacy and others' too.  
 
+#### 🎨 Campaign Poster
+
+![Digital Awareness Campaign Poster - Pause Think Post](./file_000000007bb071fa97053042bb6edfbc.png)
+
 #### 🎨 Design Process
 
 **Visual Hierarchy & Elements:**
