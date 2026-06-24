@@ -2,7 +2,6 @@
 ## 📚 My Projects
 
 ### 🎨 Task 1: Digital Awareness Campaign Poster :
-‎file_000000007bb071fa97053042bb6edfbc.png‎
 
 **Project Overview**
 
